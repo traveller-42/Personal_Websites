@@ -1,0 +1,105 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif; 
+}
+section{
+    height: 600px;
+    padding-bottom: 50px;
+}
+.nav_class{
+    margin-top: 25px;
+    margin-right: 6%;
+    padding-right: 1%;
+    text-align: right;
+    margin-bottom: 50px;
+}
+.nav{
+    margin-left: 2%;
+    padding-left: 2%;
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 50px;
+    font-weight: 200;
+    line-height: 30px;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.orange_color{
+    color: orange;
+}
+.red_color{
+    color: rgb(224, 75, 75);
+}
+.light_blue{
+    color: navy;
+}
+.half_width{
+    width: 20%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 5%;
+    margin-top: 0px;
+ }
+ .half_width img{
+    width: 100%;
+}
+
+.like_button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon , tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.work{
+    background-color:rgb(244,245,246);
+    height: 900px;
+}
+#center_allign{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+.three_one{
+    height: 60%;
+    width: 25%;
+    margin-left: 2%;
+    padding: 1%;
+    float: left;
+    background-color: white;
+    border-radius: 40px;
+    box-shadow: 3px 4px 30px lightgray;
+}
+.three_one img{
+    width: 100%;
+}
+.box{
+    margin-left: 10%;
+}
+.width_box{
+    height: 400px;
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 50% 50%;
+}
+.position{
+    position: relative;
+    top: 52%;
+    left: 27%; 
+}
+.position_another{
+    position: relative;
+    top: 35%;
+    left: 65%; 
+}
+.width_box h1{
+    color:  white;
+}
